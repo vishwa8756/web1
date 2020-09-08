@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html
+{
+    background-color: #fff;
+    color: #555;
+    font-family: 'lato','arial',sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+}
+h1{
+     text-align: center;
+    text-emphasis-position: below;
+    font-family: cursive;
+    {
+        colour: rgba(126, 78, 141, 0.87);
+    }
+    
+}
+h1{
+    font-size:400%;
+}
+.row{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+
+header{
+    background-image:url(resources/css/img/2835vish.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hero-text-box{
+    position: absolute;
+    width: 1140px;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+h1{
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 400%;
+    font-weight: 1000;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: #000;
+}
+
+
+
+
+h2{
+    font-size: 200%;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: rgb(0, 0, 0);
+}
+
+
